@@ -1,0 +1,2 @@
+class tabla:
+    def 
